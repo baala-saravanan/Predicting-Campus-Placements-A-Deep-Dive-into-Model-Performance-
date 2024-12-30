@@ -1,3 +1,4 @@
+# Logistic Regression, Decision Tree, and K-Nearest Neighbors (KNN) Models
 Recently, I took on the task of predicting student placement outcomes using logistic regression, decision tree, and K-nearest neighbors (KNN) models. This project explored how academic performance, extracurriculars, and skill certifications impact students’ placement probabilities. Here’s what I found:
 
 Logistic Regression stood out with 79.45% accuracy 🏆, showcasing its robustness for binary classification problems where interpretability and computational efficiency matter. This model offers not only class predictions but also probability scores, providing a well-rounded view of prediction confidence.
